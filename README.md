@@ -34,7 +34,7 @@ This project is implemented in a **Google Colab Notebook** and is viewable and e
 
 (3) Place **ft_train.csv**, **ft_valid.csv**, and **ft_test.csv** in the **content** (default location) folder of the notebook.
 
-(4) If you do not wish to manually retrain the model, unzip **Pretrained_Model.zip** and place its contents (a **.dill** file) in the **content** folder of the notebook.
+(4) If you do not wish to manually retrain the model, download the **.dill** file at https://drive.google.com/file/d/1ZzZil497U6KmM27QwRTN1wpiHTbtG6dc/view?usp=sharing.
 
 ## **2.2 Install Packages**
 
@@ -45,7 +45,7 @@ All package dependencies will be covered by Google Colab itself and the import c
 To run the project, each code block (unless commented out/specified) **must be run in sequential order**. 
 
 
-If the CSVs (and optioanlly, the .dill file) are placed within the **content** folder, the code will run from start to finish without issues. Code blocks are commented extensively to highlight key features and nuances of functions or processes.
+If the CSVs (and optionally, the .dill file) are placed within the **content** folder, the code will run from start to finish without issues. Code blocks are commented extensively to highlight key features and nuances of functions or processes.
 
 ## **2.4 Run Pre-trained Model**
 
@@ -56,7 +56,7 @@ If the pre-trained model is added to the notebook, the labeled code block will l
 If the code is run in sequential order, the **testset-results.csv** will be generated without issue.
 
 
-If attempting to generate new **.dill** pre-trained model, uncomment the labeled code block and run it.
+If attempting to generate new **.dill** pre-trained model, uncomment the labeled code block, and run it.
 
 ## 3. Report
 
