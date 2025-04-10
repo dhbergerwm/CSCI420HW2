@@ -1,4 +1,4 @@
-# GenAI for Software Development (Ngram)
+# GenAI for Software Development (CodeT5-Small)
 
 ---
 
