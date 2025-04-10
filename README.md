@@ -60,4 +60,4 @@ If attempting to generate new **.dill** pre-trained model, uncomment the labeled
 
 ## 3. Report
 
-The assignment report is available in the file **GenAI 420 Project 1 Writeup.pdf**.
+The assignment report is available in the file **GenAI 420 Project 2 Writeup.pdf**.
