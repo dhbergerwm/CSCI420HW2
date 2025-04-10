@@ -43,6 +43,8 @@ All package dependencies will be covered by Google Colab itself and the import c
 ## **2.3 Run Project**
 
 To run the project, each code block (unless commented out/specified) **must be run in sequential order**. 
+
+
 If the CSVs (and optioanlly, the .dill file) are placed within the **content** folder, the code will run from start to finish without issues. Code blocks are commented extensively to highlight key features and nuances of functions or processes.
 
 ## **2.4 Run Pre-trained Model**
@@ -52,6 +54,8 @@ If the pre-trained model is added to the notebook, the labeled code block will l
 ## **2.5 Generating Files**
 
 If the code is run in sequential order, the **testset-results.csv** will be generated without issue.
+
+
 If attempting to generate new **.dill** pre-trained model, uncomment the labeled code block and run it.
 
 ## 3. Report
